@@ -1,0 +1,13 @@
+I want to create a social habit tracker mobile app.
+Supabase auth is setup and i want to use it as the backend database
+
+
+Each user should have a profile with a name, email, and avatar.
+The dashboard should have a list of habits with a name of the habit
+Habits can be either solo habits or group Habits
+A group habit only counts if all users in the group have completed the habit.
+
+Here is a basic overview of the dashboard.
+The top left has a logo of the app, the top right has a button for the user to enter a new habit
+The center has a list of habits with a name of the habit, the number of users who have completed the habit, and the number of users who have not completed the habit, the display of multiple users is only if it is a social habit
+It should have a button for the user to select that indicates that they have completed the habit 

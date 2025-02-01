@@ -10,6 +10,7 @@ export const unstable_settings = {
 export default function AppLayout() {
 	const { colorScheme } = useColorScheme();
 
+	// git check
 	return (
 		<Stack screenOptions={{ headerShown: false, gestureEnabled: false }}>
 			<Stack.Screen name="(protected)" />

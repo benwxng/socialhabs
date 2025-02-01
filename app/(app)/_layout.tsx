@@ -11,6 +11,7 @@ export default function AppLayout() {
 	const { colorScheme } = useColorScheme();
 
 	// git check
+	//branch check
 	return (
 		<Stack screenOptions={{ headerShown: false, gestureEnabled: false }}>
 			<Stack.Screen name="(protected)" />
